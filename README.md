@@ -50,4 +50,4 @@ All outputs were correct
 Aayushi Kularaj
 
 ## Acknowledgement
-Explanations were obtained from OpenAI's ChatGPT to help undertand concepts used in the program. All code was understood, writted, and tested by the author. 
+Explanations were obtained from OpenAI's ChatGPT to help undertand concepts used in the program. All code was understood, writted, and tested by me. 

@@ -29,7 +29,7 @@ pip install -r requirements.txt
 python app.py  
 
 ## Hugging Face Link
-(Add after deployment)
+https://huggingface.co/spaces/aayukula7/AK-bubble-sort-leaderboard
 
 ## Testing & Verification
 

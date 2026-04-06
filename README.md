@@ -1,4 +1,5 @@
 # Leaderboard sorter (Bubble sort)
+I chose to use bubble sort as it is a sorting method I am comfortable using, it is easy to visualize, and it was ideal for my app idea (as it clearly shows how scores move up in a leaderboard). 
 
 ## Demo
 
